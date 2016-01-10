@@ -10,3 +10,4 @@ src/main/resources/public/
 **/*.ipr
 **/*.iws
 **/*.log*
+**/*.dump
